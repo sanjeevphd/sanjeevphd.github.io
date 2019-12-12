@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IBTIAM</title>
-    <link>localhost:1313/</link>
+    <link>https://smalalur-gh.github.io/</link>
     <description>Recent content on IBTIAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Nov 2019 16:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smalalur-gh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>localhost:1313/about/</link>
+      <link>https://smalalur-gh.github.io/about/</link>
       <pubDate>Tue, 26 Nov 2019 16:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/about/</guid>
+      <guid>https://smalalur-gh.github.io/about/</guid>
       <description>What? Manifest is a theme for the static site generator Hugo.
  Manifest
 man.i.fest (adjective)
@@ -27,10 +27,10 @@ Design  High impact home/landing page, using only text Emphasis on text legibili
     
     <item>
       <title>Guide to Kaggle API</title>
-      <link>localhost:1313/posts/kaggle_api/</link>
+      <link>https://smalalur-gh.github.io/posts/kaggle_api/</link>
       <pubDate>Thu, 31 Oct 2019 16:45:26 -0500</pubDate>
       
-      <guid>localhost:1313/posts/kaggle_api/</guid>
+      <guid>https://smalalur-gh.github.io/posts/kaggle_api/</guid>
       <description>A quick guide to install and use the official Kaggle API, mostly for personal reference.
 Installation Note
 Kaggle API does not work with Python 2. Only Python 3 is supported.
@@ -39,55 +39,55 @@ Kaggle API does not work with Python 2. Only Python 3 is supported.
     
     <item>
       <title>vimprovement</title>
-      <link>localhost:1313/posts/vimprovement/</link>
+      <link>https://smalalur-gh.github.io/posts/vimprovement/</link>
       <pubDate>Wed, 07 Mar 2018 20:58:59 -0600</pubDate>
       
-      <guid>localhost:1313/posts/vimprovement/</guid>
+      <guid>https://smalalur-gh.github.io/posts/vimprovement/</guid>
       <description>In the beginning... I have been using vim for a while now. I moved from being a long time PC user to a Mac and was looking for a good editor. TextMate served that purpose for a while, but I was drawn to the &amp;quot;dark side&amp;quot; (aka terminal with a dark background). Very quickly, I hit the famous fork in the well travelled road to console editor bliss - Emacs vs Vim.</description>
     </item>
     
     <item>
       <title>(hu)manifesto</title>
-      <link>localhost:1313/humanifesto/</link>
+      <link>https://smalalur-gh.github.io/humanifesto/</link>
       <pubDate>Sun, 04 Sep 2016 00:33:51 -0500</pubDate>
       
-      <guid>localhost:1313/humanifesto/</guid>
+      <guid>https://smalalur-gh.github.io/humanifesto/</guid>
       <description>Breathe Be Honest to yourself and to others Truth has no versions Be Compassionate to yourself and to others Every Being has Infinite Worth Attention is Precious Don&#39;t let your attention be controlled, control your attention Don&#39;t take the attention of others for granted Respect Time yours and of others Know Yourself in order to understand everything else Sing and Dance often Own your well-being It&#39;s your Body, Obsess Over What Goes into It Garbage In, Garbage Out It&#39;s your Mind, .</description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>localhost:1313/projects/deep-learning/</link>
+      <link>https://smalalur-gh.github.io/projects/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/projects/deep-learning/</guid>
+      <guid>https://smalalur-gh.github.io/projects/deep-learning/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>localhost:1313/projects/example-external-project/</link>
+      <link>https://smalalur-gh.github.io/projects/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/projects/example-external-project/</guid>
+      <guid>https://smalalur-gh.github.io/projects/example-external-project/</guid>
       <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
     </item>
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>localhost:1313/publications/person-re-identification/</link>
+      <link>https://smalalur-gh.github.io/publications/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/publications/person-re-identification/</guid>
+      <guid>https://smalalur-gh.github.io/publications/person-re-identification/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>localhost:1313/publications/clothing-search/</link>
+      <link>https://smalalur-gh.github.io/publications/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/publications/clothing-search/</guid>
+      <guid>https://smalalur-gh.github.io/publications/clothing-search/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

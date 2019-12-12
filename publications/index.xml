@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on IBTIAM</title>
-    <link>localhost:1313/publications/</link>
+    <link>https://smalalur-gh.github.io/publications/</link>
     <description>Recent content in Publications on IBTIAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smalalur-gh.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>localhost:1313/publications/person-re-identification/</link>
+      <link>https://smalalur-gh.github.io/publications/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/publications/person-re-identification/</guid>
+      <guid>https://smalalur-gh.github.io/publications/person-re-identification/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>localhost:1313/publications/clothing-search/</link>
+      <link>https://smalalur-gh.github.io/publications/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/publications/clothing-search/</guid>
+      <guid>https://smalalur-gh.github.io/publications/clothing-search/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
