@@ -1,94 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IBTIAM</title>
-    <link>https://smalalur-gh.github.io/</link>
-    <description>Recent content on IBTIAM</description>
+    <title>SM</title>
+    <link>https://sanjeevphd.github.io/</link>
+    <description>Recent content on SM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Dec 2019 21:40:32 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 04 Sep 2016 00:33:51 -0500</lastBuildDate>
     
-	<atom:link href="https://smalalur-gh.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sanjeevphd.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://smalalur-gh.github.io/about/</link>
-      <pubDate>Tue, 26 Nov 2019 16:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>https://sanjeevphd.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://smalalur-gh.github.io/about/</guid>
-      <description>What? Manifest is a theme for the static site generator Hugo.
- Manifest
-man.i.fest (adjective)
-clear or obvious to the eye or mind
- Demo View demo here
-Design  High impact home/landing page, using only text Emphasis on text legibility and readability Site navigation aimed to reduce clicks Clean, lean, minimal and functional Near-black, near-white and gray color scheme Pro-web accessibility Responsive  Features  Stays out of the way and puts the emphasis on content and readability Uses Tachyons CSS for styling Designed with web accessibility in mind Aims to be generic enough for various use cases Dedicated landing page List and sigle views Title, summary, wordcount and reading time in list view Taxonomy using tags and categories Multiple menus - one on home page; one in list and single views and one in the footer Social icons integration  Why?</description>
+      <guid>https://sanjeevphd.github.io/publications/</guid>
+      <description>Robinson, Melvin D, Manry, Michael T, Malalur, Sanjeev S, Yu, Changhua, Properties of a Batch Training Algorithm for Feedforward Networks, Springer Neural Processing Letters, vol. 45, Issue 3, pp. 841-854, 2017. Malalur, Sanjeev S, Manry, Michael T, Jesudhas, Praveen, Multiple optimal learning factors for the multi-layer perceptron, Elsevier Neurocomputing, vol. 149, pp. 1490-1501, 2015. Jesudhas, Praveen, Manry, Michael T, Rawat, Rohit, Malalur, Sanjeev, Analysis and improvement of multiple optimal learning factors for feed-forward networks, IEEE International Joint Conference on Neural Networks, pp.</description>
     </item>
     
     <item>
-      <title>Multiple Optimal Learning Factors for Feed-forward Neural Nets</title>
-      <link>https://smalalur-gh.github.io/publications/molf/</link>
-      <pubDate>Thu, 12 Dec 2019 21:40:32 -0600</pubDate>
+      <title>Resume</title>
+      <link>https://sanjeevphd.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://smalalur-gh.github.io/publications/molf/</guid>
-      <description>A batch training algorithm is developed for a fully connected multi-layer perceptron, with a single hidden layer, which uses two-stages per iteration. In the first stage, Newton&#39;s method is used to find a vector of optimal learning factors (OLFs), one for each hidden unit, which is used to update the input weights. Linear equations are solved for output weights in the second stage. Elements of the new method&#39;s Hessian matrix are shown to be weighted sums of elements from the Hessian of the whole network.</description>
-    </item>
-    
-    <item>
-      <title>Optimal Input Gains for Feed-forward Neural Networks</title>
-      <link>https://smalalur-gh.github.io/publications/oig/</link>
-      <pubDate>Thu, 12 Dec 2019 21:36:52 -0600</pubDate>
-      
-      <guid>https://smalalur-gh.github.io/publications/oig/</guid>
-      <description>In this paper, an effective batch training algorithm is developed for feed-forward networks such as the multilayer perceptron. First, the effects of input transforms are reviewed and explained, using the concept of equivalent networks. Next, a non-singular diagonal transform matrix for the inputs is proposed. Use of this transform is equivalent to altering the input gains in the network. Newton’s method is used to solve for the input gains and an optimal learning factor.</description>
-    </item>
-    
-    <item>
-      <title>Guide to Kaggle API</title>
-      <link>https://smalalur-gh.github.io/posts/kaggle_api/</link>
-      <pubDate>Thu, 31 Oct 2019 16:45:26 -0500</pubDate>
-      
-      <guid>https://smalalur-gh.github.io/posts/kaggle_api/</guid>
-      <description>A quick guide to install and use the official Kaggle API, mostly for personal reference.
-Installation Note
-Kaggle API does not work with Python 2. Only Python 3 is supported.
- A recommended first step is to create a separate virtual environment using the desired environment management tool. In Conda, conda create -n kaggle does the job. Next, activate the virtual environment. Again, in Conda, conda activte kaggle will get this done.</description>
-    </item>
-    
-    <item>
-      <title>vimprovement</title>
-      <link>https://smalalur-gh.github.io/posts/vimprovement/</link>
-      <pubDate>Wed, 07 Mar 2018 20:58:59 -0600</pubDate>
-      
-      <guid>https://smalalur-gh.github.io/posts/vimprovement/</guid>
-      <description>In the beginning... I have been using vim for a while now. I moved from being a long time PC user to a Mac and was looking for a good editor. TextMate served that purpose for a while, but I was drawn to the &amp;quot;dark side&amp;quot; (aka terminal with a dark background). Very quickly, I hit the famous fork in the well travelled road to console editor bliss - Emacs vs Vim.</description>
+      <guid>https://sanjeevphd.github.io/resume/</guid>
+      <description>Summary Over 10 years of experience collaborating with domain experts to translate business requirements into data driven solutions, leading the development of machine learning powered data products, and supporting clients worldwide to ensure their success. Experienced in startup and small business culture with an agile mindset for problem understanding, learning, rapid prototyping and delivering results.
+ Skills Programming: Python &amp;amp; C Libraries &amp;amp; Frameworks: Numpy, SciPy, Matplotlib, Statsmodels, Pandas, Dask, Pytest, Scikit-learn, PyTorch, TensorFlow 2.</description>
     </item>
     
     <item>
       <title>(hu)manifesto</title>
-      <link>https://smalalur-gh.github.io/humanifesto/</link>
+      <link>https://sanjeevphd.github.io/humanifesto/</link>
       <pubDate>Sun, 04 Sep 2016 00:33:51 -0500</pubDate>
       
-      <guid>https://smalalur-gh.github.io/humanifesto/</guid>
-      <description>Breathe Be Honest Truth has no versions Be Compassionate Every Being has Infinite Worth Attention is Precious Respect Time Know Yourself Own your well-being Eat, Move, Sleep Listen Be Curious Sing and Dance often Laugh more Don&#39;t complain Be Humble </description>
+      <guid>https://sanjeevphd.github.io/humanifesto/</guid>
+      <description>A growing list of things I value...
+Be Honest Truth has no versions Be Compassionate Every Being has Infinite Worth Breathe Focus Attention is Precious Respect Time Know Thyself Own your well-being Eat, Move, Sleep Listen Be Curious Sing and Dance often Laugh more Complain less Be Humble  </description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://smalalur-gh.github.io/projects/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Home</title>
+      <link>https://sanjeevphd.github.io/about_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://smalalur-gh.github.io/projects/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://smalalur-gh.github.io/projects/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://smalalur-gh.github.io/projects/example-external-project/</guid>
-      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
+      <guid>https://sanjeevphd.github.io/about_me/</guid>
+      <description>I am a Research Engineer by profession and enjoy working with data and machine learning, primarily using Python and it&#39;s vast and ever growing collection of libraries and frameworks. I also practice meditation, workout often, play the drums, read for enjoyment and juggle. I intend to use this site as a collection of posts - primarily for learning and self-reflection.
+More content coming soon.</description>
     </item>
     
   </channel>

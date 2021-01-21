@@ -3,71 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://smalalur-gh.github.io/about/</loc>
-    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
+    <loc>https://sanjeevphd.github.io/publications/</loc>
   </url>
   
   <url>
-    <loc>https://smalalur-gh.github.io/</loc>
-    <lastmod>2019-12-12T21:40:32-06:00</lastmod>
-    <priority>0</priority>
+    <loc>https://sanjeevphd.github.io/resume/</loc>
   </url>
   
   <url>
-    <loc>https://smalalur-gh.github.io/publications/molf/</loc>
-    <lastmod>2019-12-12T21:40:32-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://smalalur-gh.github.io/publications/</loc>
-    <lastmod>2019-12-12T21:40:32-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://smalalur-gh.github.io/publications/oig/</loc>
-    <lastmod>2019-12-12T21:36:52-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://smalalur-gh.github.io/posts/kaggle_api/</loc>
-    <lastmod>2019-10-31T16:45:26-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://smalalur-gh.github.io/posts/</loc>
-    <lastmod>2019-10-31T16:45:26-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://smalalur-gh.github.io/posts/vimprovement/</loc>
-    <lastmod>2018-03-07T20:58:59-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://smalalur-gh.github.io/humanifesto/</loc>
+    <loc>https://sanjeevphd.github.io/humanifesto/</loc>
     <lastmod>2016-09-04T00:33:51-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://smalalur-gh.github.io/projects/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://smalalur-gh.github.io/projects/example-external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://smalalur-gh.github.io/projects/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://sanjeevphd.github.io/</loc>
+    <lastmod>2016-09-04T00:33:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://smalalur-gh.github.io/tags/</loc>
+    <loc>https://sanjeevphd.github.io/about_me/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sanjeevphd.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
