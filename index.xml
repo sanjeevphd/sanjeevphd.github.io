@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SM</title>
-    <link>https://sanjeev.github.io/</link>
+    <link>https://sanjeevphd.github.io/</link>
     <description>Recent content on SM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Sep 2016 00:33:51 -0500</lastBuildDate>
     
-	<atom:link href="https://sanjeev.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sanjeevphd.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>https://sanjeev.github.io/publications/</link>
+      <link>https://sanjeevphd.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sanjeev.github.io/publications/</guid>
+      <guid>https://sanjeevphd.github.io/publications/</guid>
       <description>Robinson, Melvin D, Manry, Michael T, Malalur, Sanjeev S, Yu, Changhua, Properties of a Batch Training Algorithm for Feedforward Networks, Springer Neural Processing Letters, vol. 45, Issue 3, pp. 841-854, 2017. Malalur, Sanjeev S, Manry, Michael T, Jesudhas, Praveen, Multiple optimal learning factors for the multi-layer perceptron, Elsevier Neurocomputing, vol. 149, pp. 1490-1501, 2015. Jesudhas, Praveen, Manry, Michael T, Rawat, Rohit, Malalur, Sanjeev, Analysis and improvement of multiple optimal learning factors for feed-forward networks, IEEE International Joint Conference on Neural Networks, pp.</description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://sanjeev.github.io/resume/</link>
+      <link>https://sanjeevphd.github.io/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sanjeev.github.io/resume/</guid>
+      <guid>https://sanjeevphd.github.io/resume/</guid>
       <description>PDF Summary Over 10 years of experience collaborating with domain experts to translate business requirements into data driven solutions, leading the development of machine learning powered data products, and supporting clients worldwide to ensure their success. Experienced in startup and small business culture with an agile mindset for problem understanding, learning, rapid prototyping and delivering results.
  Skills Programming: Python &amp;amp; C Libraries &amp;amp; Frameworks: Numpy, SciPy, Matplotlib, Statsmodels, Pandas, Dask, Pytest, Scikit-learn, PyTorch, TensorFlow 2.</description>
     </item>
     
     <item>
       <title>(hu)manifesto</title>
-      <link>https://sanjeev.github.io/humanifesto/</link>
+      <link>https://sanjeevphd.github.io/humanifesto/</link>
       <pubDate>Sun, 04 Sep 2016 00:33:51 -0500</pubDate>
       
-      <guid>https://sanjeev.github.io/humanifesto/</guid>
+      <guid>https://sanjeevphd.github.io/humanifesto/</guid>
       <description>A growing list of things I value...
 Be Honest Truth has no versions Be Compassionate Every Being has Infinite Worth Breathe Focus Attention is Precious Respect Time Know Thyself Own your well-being Eat, Move, Sleep Listen Be Curious Sing and Dance often Laugh more Complain less Be Humble  </description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>https://sanjeev.github.io/about_me/</link>
+      <link>https://sanjeevphd.github.io/about_me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sanjeev.github.io/about_me/</guid>
+      <guid>https://sanjeevphd.github.io/about_me/</guid>
       <description>I am a Research Engineer by profession and enjoy working with data and machine learning, primarily using Python and it&#39;s vast and ever growing collection of libraries and frameworks. I also practice meditation, workout often, play the drums, read for enjoyment and juggle. I intend to use this site as a collection of posts - primarily for learning and self-reflection.
 More content coming soon.</description>
     </item>
