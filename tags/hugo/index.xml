@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on SM</title>
+    <link>localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on SM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing the Manifest Theme for Hugo</title>
+      <link>localhost:1313/posts/manifest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/posts/manifest/</guid>
+      <description>What? Manifest is a theme for the static site generator Hugo.
+ Manifest
+man.i.fest (adjective)
+clear or obvious to the eye or mind
+ Demo View demo here
+Design  High impact home/landing page, using only text Emphasis on text legibility and readability Site navigation aimed to reduce clicks Clean, lean, minimal and functional Near-black, near-white and gray color scheme Pro-web accessibility Responsive  Features  Stays out of the way and puts the emphasis on content and readability Uses Tachyons CSS for styling Designed with web accessibility in mind Aims to be generic enough for various use cases Dedicated landing page List and sigle views Title, summary, wordcount and reading time in list view Taxonomy using tags and categories Multiple menus - one on home page; one in list and single views and one in the footer Social icons integration  Why?</description>
+    </item>
+    
+  </channel>
+</rss>
