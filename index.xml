@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SM</title>
     <link>https://sanjeevphd.github.io/</link>
     <description>Recent content on SM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 04 Sep 2016 00:33:51 -0500</lastBuildDate>
-    
-	<atom:link href="https://sanjeevphd.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://sanjeevphd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>https://sanjeevphd.github.io/publications/</link>
@@ -27,7 +22,7 @@
       
       <guid>https://sanjeevphd.github.io/resume/</guid>
       <description>PDF Summary Over 10 years of experience collaborating with domain experts to translate business requirements into data driven solutions, leading the development of machine learning powered data products, and supporting clients worldwide to ensure their success. Experienced in startup and small business culture with an agile mindset for problem understanding, learning, rapid prototyping and delivering results.
- Skills Programming: Python &amp;amp; C Libraries &amp;amp; Frameworks: Numpy, SciPy, Matplotlib, Statsmodels, Pandas, Dask, Pytest, Scikit-learn, PyTorch, TensorFlow 2.</description>
+Skills Programming: Python &amp;amp; C Libraries &amp;amp; Frameworks: Numpy, SciPy, Matplotlib, Statsmodels, Pandas, Dask, Pytest, Scikit-learn, PyTorch, TensorFlow 2.</description>
     </item>
     
     <item>
@@ -36,8 +31,8 @@
       <pubDate>Sun, 04 Sep 2016 00:33:51 -0500</pubDate>
       
       <guid>https://sanjeevphd.github.io/humanifesto/</guid>
-      <description>A growing list of things I value...
-Be Honest Truth has no versions Be Compassionate Every Being has Infinite Worth Breathe Focus Attention is Precious Respect Time Know Thyself Own your well-being Eat, Move, Sleep Listen Be Curious Sing and Dance often Laugh more Complain less Be Humble  </description>
+      <description> A growing list of things I value...
+Be Honest Truth has no versions Be Compassionate Every Being has Infinite Worth Breathe Focus Attention is Precious Respect Time Know Thyself Own your well-being Eat, Move, Sleep Listen Be Curious Sing and Dance often Laugh more Complain less Be Humble </description>
     </item>
     
     <item>
